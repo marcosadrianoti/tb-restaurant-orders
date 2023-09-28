@@ -31,13 +31,13 @@ cd meu-diretorio
 Clone o projeto com o comando `git clone`:
 
 ```bash
-git clone git@github.com:marcosadrianoti/tb-ting.git
+git clone git@github.com:marcosadrianoti/tb-restaurant-orders.git
 ```
 
 Acesse o diretório do projeto com o comando `cd`:
 
 ```bash
-cd tb-ting
+cd tb-restaurant-orders
 ```
 
 crie o ambiente virtual:
