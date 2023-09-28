@@ -13,16 +13,10 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
 
-  * Pacote `ting_file_management`
-    * Implementar uma fila para armazenar os arquivos que serão lidos.
-    * Implementar uma função _txt_importer_ dentro do módulo _file_management_ capaz de importar notícias a partir de um arquivo TXT, utilizando "\n" como separador.
-    * Implementar a função process no módulo _file_process_. Essa função deverá ser capaz de transformar o conteúdo da lista gerada pela função _txt_importer_ em um dicionário que será armazenado dentro da Queue.
-    * Implementar uma função _remove_ dentro do módulo _file_process_ capaz de remover o primeiro arquivo processado
-    * Implementar uma função _file_metadata_ dentro do módulo _file_process_ capaz de apresentar as informações superficiais de um arquivo processado.
-    * Implementar os testes para a classe _PriorityQueue_ capaz de armazenar arquivos pequenos de forma prioritária
-  * Pacote `ting_word_searches`
-    * Implementar uma função _exists_word_, dentro do módulo _word_search_, que verifique a existência de uma palavra em todos os arquivos processados.
-    * Implementar uma função _search_by_word_ dentro do módulo _word_search_, que busque uma palavra em todos os arquivos processados.
+  *  Implementar testes para a classe `Ingredient`, que se encontra no módulo `src/models/ingredient.py`.
+  *  Implementar testes para a classe `Dish`, que se encontra no módulo `src/models/dish.py`.
+  *  Implementar a classe `MenuData` que fará todo o mapeamento de pratos e ingredientes baseado nos arquivo csv disponibilizado. Ela se encontra no módulo `src/services/menu_data.py`.
+  *  Implementar o método `get_main_menu` dentro da classe `MenuBuilder`, que gera um `DataFrame` com os cardápios. Ele se encontra no arquivo `src/services/menu_builder.py`.
 </details>
   
 ## Rodando o projeto localmente
