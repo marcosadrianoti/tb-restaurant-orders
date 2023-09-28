@@ -1,15 +1,14 @@
-# Projeto Python TING (Trybe is not Google)! :card_index:
+# Projeto Python Restaurant Orders! :plate_with_cutlery:
 Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Divulgado aqui como portfólio de aprendizado.
 
 <details>
 <summary><strong>Objetivos do projeto:</strong></summary>
  
-  * Implementar um programa que simule um algoritmo de indexação de documentos similar ao do Google. Seu programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
-  * Verificar se eu era capaz de:
-    * Manipular Pilhas.
-    * Manipular Deque.
-    * Manipular Nó & Listas Ligadas.
-    * Manipular Listas Duplamente Ligadas.
+  * Finalizar uma ferramenta de construção de cardápios.
+  * Habilidades exercitadas:
+    * Praticar o conceito de Hashmaps através das estruturas de dados Dict e Set do Python.
+    * Praticar os conhecimentos de testes de software.
+    * Praticar os conhecimentos de orientação a objetos.
 </details>
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
